@@ -1,6 +1,6 @@
 |  input   |  output  |
 |----------|----------|
-| xxxx0000 | xxxx0010 |
+| xxxx0000 | xxxx0011 |
 | xxxx0001 | xxxx0100 |
 | xxxx0010 | xxxx0101 |
 | xxxx0011 | xxxx0110 |
