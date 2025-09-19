@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     0       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        ""      # Project title
-  author:       ""      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  wokwi_id:     442454244336070657       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:        "4-Bit BCD to 3-EXZ Coder"      # Project title
+  author:       "Simon Dorrer"      # Your name
+  discord:      "simi150500"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "A 4-Bit BCD value is coded into a 4-Bit 3-EXZ value."      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -16,20 +16,20 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: ""
-  ui[1]: ""
-  ui[2]: ""
-  ui[3]: ""
+  ui[0]: "A"
+  ui[1]: "B"
+  ui[2]: "C"
+  ui[3]: "D"
   ui[4]: ""
   ui[5]: ""
   ui[6]: ""
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
+  uo[0]: "W"
+  uo[1]: "X"
+  uo[2]: "Y"
+  uo[3]: "Z"
   uo[4]: ""
   uo[5]: ""
   uo[6]: ""
