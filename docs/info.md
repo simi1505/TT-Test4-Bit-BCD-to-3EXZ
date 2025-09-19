@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This project uses four input pins (A, B, C, D) and represents a 4-bit BCD code. This BCD code is then converted with just NAND gates to a 4-bit excess-3 code at the output pins (W, X, Y, Z), as shown in the following truth table.
+This project uses four input pins (A, B, C, D) and represents a 4-bit BCD code. This BCD code is then converted with just NAND gates to a 4-bit excess-3 code at the output pins (W, X, Y, Z), as shown in the following truth table. More details can be found under https://de.wikipedia.org/wiki/Stibitz-Code.
 
 |    | A | B | C | D |   | W | X | Y | Z |
 |----|---|---|---|---|---|---|---|---|---|
